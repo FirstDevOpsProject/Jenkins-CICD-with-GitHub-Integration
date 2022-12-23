@@ -1,2 +1,10 @@
-# Jenkins-CICD-with-GitHub-Integration
-Jenkins CICD with GitHub Integration : I will be making a Live DevOps Project to add in your Resume which will be Jenkins CI/CD pipelin with GitHub Integration
+# node-todo-cicd
+
+sudo apt install nodejs
+sudo apt install npm
+
+
+npm install
+
+node app.js
+
